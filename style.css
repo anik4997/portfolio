@@ -829,7 +829,7 @@ footer span a:hover{
     .portfolio_img{
         margin: 0 auto;
         height: 600px;
-        width: 300px;
+        width: 30px
     }
     .content_heading_sm{
         color: beige;
@@ -915,8 +915,8 @@ footer span a:hover{
 @media only screen and (min-width: 1200px) {
     .portfolio_img{
     margin-left: 150px;
-    height: 750px;
-    width: 600px;
+    /* height: 750px; */
+    width: 400px;
 }
 .content_heading_sm{
     color: beige;
