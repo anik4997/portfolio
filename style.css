@@ -379,21 +379,24 @@ section .title::after{
     width: 90%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 90%;
 }
 .skills-content .right .js::before{
     width: 80%;
 }
 .skills-content .right .php::before{
-    width: 50%;
+    width: 85%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 85%;
 }
 
 /* teams section styling */
 .teams .title::after{
     content: "Previous works";
+}
+.carousel a{
+    color: #fff;
 }
 .teams .carousel .card{
     background: #222;
@@ -409,6 +412,7 @@ section .title::after{
     background: rgb(121, 117, 118);
 }
 .teams .carousel .card .box{
+    height: 300px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
