@@ -8,14 +8,11 @@ This is a personal portfolio website created by Oli Ahammed Sarker. The website 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Contact](#contact)
-- [License](#license)
 
 ## Demo
 
-You can visit the live website at [Oli Ahammed Portfolio](https://anik4997.github.io/portfolio/).
+You can visit the live website at [Oli Ahammed Portfolio](https://your-portfolio-website-link.com).
 
 ## Features
 
@@ -39,4 +36,24 @@ You can visit the live website at [Oli Ahammed Portfolio](https://anik4997.githu
 - Typed.js
 - Waypoints
 
+## Project Structure
 
+```bash
+portfolio-website/
+│
+├── images/ # Images used in the website
+│
+├── CV_(Oli Ahammed Sarker).pdf # Downloadable CV
+├── README.md # This README file
+├── index.html # Main HTML file
+├── script.js # Custom JavaScript file
+├── style.css # Custom CSS styles
+```
+
+## Contact
+Feel free to contact me for any inquiries or support regarding the website:
+
+- Name: Oli Ahammed Sarker
+- Email: oliahammed02@gmail.com
+- Phone: +8801600000127, +8801627324997 (WhatsApp)
+- Address: 26/1, Free School Street, Hatirpool, Dhanmondi, Dhaka
